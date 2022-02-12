@@ -21,3 +21,9 @@ If you would like to get updates in your feed when changes are made to this repo
 
 
 ## Friday, February 11th, 2022
++ Reviewed installing mocha and chai and bash
++ Used the asterisk on the command line as a wildcard
++ Worked on the openclass issue do while loop, print every 6 numbers
++ Discussed when to use outside help and know when it's helping or hurting learning
++ Review if/else and while loops
++ Reviewed a bonus problem that asks users to guess an input
