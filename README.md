@@ -36,7 +36,6 @@ If you would like to get updates in your feed when changes are made to this repo
 *Alisha Ramos — Senior Front-End Designer at Vox Media*
 
 
-Potential Topics:
 + Went over some of the openclass questions for conditionals and booleans
 + For loops
 + More openclass questions and tips on troubleshooting openclass problems
