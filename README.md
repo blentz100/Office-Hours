@@ -27,3 +27,17 @@ If you would like to get updates in your feed when changes are made to this repo
 + Discussed when to use outside help and know when it's helping or hurting learning
 + Review if/else and while loops
 + Reviewed a bonus problem that asks users to guess an input
+
+
+
+## Monday, February 14th, 2022
+
+> “It’s not enough to be aware of the possibilities. You have to believe that your goals are attainable. First, can you see yourself, picture yourself as an engineer? I strongly believe that belief in yourself stems from belief in your role models.”
+*Alisha Ramos — Senior Front-End Designer at Vox Media*
+
+
+Potential Topics:
++ Went over some of the openclass questions for conditionals and booleans
++ For loops
++ More openclass questions and tips on troubleshooting openclass problems
+
