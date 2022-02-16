@@ -40,3 +40,7 @@ If you would like to get updates in your feed when changes are made to this repo
 + For loops
 + More openclass questions and tips on troubleshooting openclass problems
 
+## Wednesday, February 16th, 2022
+
++ For Loops : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops
+
