@@ -45,3 +45,6 @@ If you would like to get updates in your feed when changes are made to this repo
 + For Loops : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops
 + Learned about using commas in console.log : https://stackoverflow.com/questions/33339688/why-comma-and-plus-log-the-console-output-in-different-pattern
 + MDN Docs on console.log() https://developer.mozilla.org/en-US/docs/Web/API/console/log
+
+## Thursday, February 17th, 2022
+Finders Keepers https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers
