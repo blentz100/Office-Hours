@@ -57,4 +57,3 @@ With this problem we did a deeper dive into callback function and the modulus op
 + Reviewed Installation Instructions for Git
 + Reviewed CORS errors for FET Week 6 project
 
-<p align="right">(<a href="#top">back to top</a>)</p>
