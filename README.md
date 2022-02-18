@@ -3,7 +3,15 @@
 # Office-Hours
 Notes from Front End Office Hours Sessions
 
-If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner. 
+If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner.
+
+## Thursday, February 17th, 2022 - Live Coding Challenge Practice
++ [Finders Keepers Problem in Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
+
++ [Solution to Finders Keepers Problem](https://github.com/blentz100/freecodecamp-solutions/blob/724e30840c28dd164d62ee62d8d0bcd2381e8834/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting/09%20Finders%20Keepers%20v2.js)
+With this problem we did a deeper dive into callback function and the modulus operator
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Wednesday, February 16th, 2022
 + For Loops : https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops
