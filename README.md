@@ -46,5 +46,8 @@ If you would like to get updates in your feed when changes are made to this repo
 + Learned about using commas in console.log : https://stackoverflow.com/questions/33339688/why-comma-and-plus-log-the-console-output-in-different-pattern
 + MDN Docs on console.log() https://developer.mozilla.org/en-US/docs/Web/API/console/log
 
-## Thursday, February 17th, 2022
-Finders Keepers https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers
+## Thursday, February 17th, 2022 - Live Coding Challenge Practice
++ [Finders Keepers Problem in Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
+
++ [Solution to Finders Keepers Problem](https://github.com/blentz100/freecodecamp-solutions/blob/724e30840c28dd164d62ee62d8d0bcd2381e8834/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting/09%20Finders%20Keepers%20v2.js)
+With this problem we did a deeper dive into callback function and the modulus operator
