@@ -5,6 +5,16 @@ Notes from Front End Office Hours Sessions
 
 If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner.
 
+## Friday, February 18th, 2022 - 
+
++ https://www.wikihow.com/Compress-a-PDF-File
++ Code Runner is a extension for VSCode to let you run stuff in the terminal in VS Code https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
++ And you probably need nodejs also to make that work https://nodejs.org/en/
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 ## Thursday, February 17th, 2022 - Live Coding Challenge Practice
 + [Finders Keepers Problem in Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
 
