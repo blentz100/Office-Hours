@@ -3,13 +3,16 @@
 # Office-Hours
 Notes from Front End Office Hours Sessions
 
-If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner.
+If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner. Pull Requests Welcome
 
-## Friday, February 18th, 2022 - 
+## Friday, February 18th, 2022  
 
-+ https://www.wikihow.com/Compress-a-PDF-File
++ We reviewed how to concatenate strings, how to use the filter method to solve one of the quiz problems
++ If you need to compress a file to get your assignment submission under the max limit: https://www.wikihow.com/Compress-a-PDF-File
 + Code Runner is a extension for VSCode to let you run stuff in the terminal in VS Code https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 + And you probably need nodejs also to make that work https://nodejs.org/en/
++ We also went over accepting a Pull Request for this repo and figured out how to merge it - Thank you Linda for the PR! 
++ Have a great weekend everyone!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
