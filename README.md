@@ -23,6 +23,25 @@ If you would like to get updates in your feed when changes are made to this repo
 > “The Power Broker in your life is the voice that no one ever hears. How well you revisit the tone and content of your private voice is what determines the quality of your life.”
 *Jim Loeher, as quoted in Tribe of Mentors*
 
++ We reviewed the syntax of arrays 
+
+```
+// [] means array
+let names = [];
+names = ['brendan', 'jennifer', 'renne', 'Jeff']
+let secondName = ['smith', 'jones'];
+
+let mergedArray = names.concat(secondName);
+console.log(mergedArray); // ['brendan', 'jennifer', 'renne', 'Jeff', 'smith', 'jones']
+
+// {} means object
+let myObject = {};
+```
+
++ Reviewed Props in the React Movie project
++ Reviewed updating data in the Houses API
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Wednesday, February 23rd, 2022  
