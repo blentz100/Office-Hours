@@ -1,9 +1,43 @@
 <div id="top"></div>
 
 # Office-Hours
-Notes from Front End Office Hours Sessions
+Notes from Front End Office Hours Sessions for any student enrolled in a Promineo Tech Front End bootcamp
 
-If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner. Pull Requests Welcome
+Offce Hours are an opportunity to come and ask questions about any problems you are working on during your bootcamp. They take place on a zoom call. 
+
+Ground rules:
+
++ You can join at any time. No appointment is necessary.
++ You can leave at any time, no need to stay the entire hour.
++ You don't need to have a question to attend. You can show up and see what other people are asking.
++ You can show up, turn your camera off and do your coding in the background and only participate if you want to. Many people choose this option.
++ You can share your wins from the past week.
++ You can help try to answer questions. Often times we are trying to help a student debug a problem, your input is welcome.
++ We have a supportive and welcoming atmosphere - please support your fellow students. 
++ If you are in a different bootcamp (Backend for example) you are welcome to join as well, but we most likely won't be able to work on back end specific issues
+
+If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner. Pull Requests Welcome.
+
+## Monday, February 21th, 2022  
+
+> “The Power Broker in your life is the voice that no one ever hears. How well you revisit the tone and content of your private voice is what determines the quality of your life.”
+*Jim Loeher, as quoted in Tribe of Mentors*
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Wednesday, February 23rd, 2022  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Thursday, February 24th, 2022 - Live Coding Challenge Practice
+
++ This week we'll work on the [DNA Pairing excercise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing) from freeCodeCamp. First we'll solve it using a for loop and then for part 2 we can tackle it using the array function map.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Friday, February 25th, 2022  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Friday, February 18th, 2022  
 
