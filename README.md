@@ -46,6 +46,8 @@ let myObject = {};
 
 ## Wednesday, February 23rd, 2022  
 
++ Requested Topic: Using try/catch blocks to get more detail on API errors 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Thursday, February 24th, 2022 - Live Coding Challenge Practice
