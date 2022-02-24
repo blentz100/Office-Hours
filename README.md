@@ -47,6 +47,7 @@ let myObject = {};
 ## Wednesday, February 23rd, 2022  
 
 + Requested Topic: Using try/catch blocks to get more detail on API errors 
++ Did some troubleshooting on a map undefined error in a project similar to the Houses API
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
