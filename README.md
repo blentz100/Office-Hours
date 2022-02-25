@@ -48,12 +48,14 @@ let myObject = {};
 
 + Requested Topic: Using try/catch blocks to get more detail on API errors 
 + Did some troubleshooting on a map undefined error in a project similar to the Houses API
++ This week we'll work on the [DNA Pairing excercise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing) from freeCodeCamp. First we'll solve it using a for loop and then for part 2 we can tackle it using the array function map.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Thursday, February 24th, 2022 - Live Coding Challenge Practice
 
-+ This week we'll work on the [DNA Pairing excercise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing) from freeCodeCamp. First we'll solve it using a for loop and then for part 2 we can tackle it using the array function map.
++ Solved the [Mutations Problem](https://github.com/blentz100/freecodecamp-solutions/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting/Mutations%20Office%20Hours.js)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
