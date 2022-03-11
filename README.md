@@ -18,6 +18,9 @@ Ground rules:
 
 If you would like to get updates in your feed when changes are made to this repo, please go ahead and "watch" it by clicking ```watch``` in the top right corner. Pull Requests Welcome.
 
+## Thursday, March 10th, 2022  
++ Continued work on: [Smallest Common Multiple Coding Challenge](https://github.com/blentz100/freecodecamp-solutions/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Intermediate%20Algorithm%20Scripting/14%20Smallest%20Common%20Multiple.js)
+
 ## Wednesday, March 9th, 2022  
 + [Smallest Common Multiple Coding Challenge](https://github.com/blentz100/freecodecamp-solutions/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Intermediate%20Algorithm%20Scripting/14%20Smallest%20Common%20Multiple.js)
 
