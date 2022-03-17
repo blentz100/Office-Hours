@@ -20,6 +20,8 @@ If you would like to get updates in your feed when changes are made to this repo
 
 ## Wednesday, March 16th, 2022  
 + [Binary Agents](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
++ HTML Element Discussion
++ Questions on the Game of War
 
 ## Thursday, March 10th, 2022  
 + Continued work on: [Smallest Common Multiple Coding Challenge](https://github.com/blentz100/freecodecamp-solutions/blob/main/Javascript%20Algorithms%20and%20Data%20Structures/Intermediate%20Algorithm%20Scripting/14%20Smallest%20Common%20Multiple.js)
